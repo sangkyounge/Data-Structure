@@ -1,0 +1,4 @@
+﻿  HeapSort.c
+C:\Users\User\source\repos\정렬(Sort)\HeapSort\HeapSort.c(33,50): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\User\source\repos\정렬(Sort)\HeapSort\HeapSort.c(33,50): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  HeapSort.vcxproj -> C:\Users\User\source\repos\정렬(Sort)\Debug\HeapSort.exe
