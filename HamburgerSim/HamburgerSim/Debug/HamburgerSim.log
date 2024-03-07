@@ -1,0 +1,4 @@
+﻿  Hamburger.c
+C:\Users\User\source\repos\HamburgerSim\HamburgerSim\Hamburger.c(26,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\HamburgerSim\HamburgerSim\Hamburger.c(21,6): warning C4101: 'sec' :참조되지 않은 지역 변수입니다.
+  HamburgerSim.vcxproj -> C:\Users\User\source\repos\HamburgerSim\Debug\HamburgerSim.exe
